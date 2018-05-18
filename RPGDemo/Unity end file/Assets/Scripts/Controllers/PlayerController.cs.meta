@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: b7eabd888b8c18d4b987d24139533b51
+timeCreated: 1499853884
+licenseType: Pro
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - focus: {instanceID: 0}
+  - fireball: {fileID: 54599062799659622, guid: dfb6a12f0087c0e4d9e6f63322bd6352,
+      type: 2}
+  - iceball: {fileID: 54888138435331898, guid: ad7632ea8353f424b9f919c51f978066, type: 2}
+  - playerTransform: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
