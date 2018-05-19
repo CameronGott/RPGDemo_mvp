@@ -5,7 +5,7 @@ using UnityEngine;
 public class OnCollisionScript : MonoBehaviour {
 
     
-    int fireballDamage = 5;
+    int fireballDamage = 50;
     public float maxSecondsAlive = 5f;
     float secondsLifeRemaining;
 

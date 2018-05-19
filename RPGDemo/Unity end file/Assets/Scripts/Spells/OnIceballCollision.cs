@@ -4,7 +4,7 @@ using UnityEngine;
 
 public class OnIceballCollision : MonoBehaviour {
 
-    int iceballDamage = 5;
+    int iceballDamage = 50;
     public float maxSecondsAlive = 5f;
     float secondsLifeRemaining;
 
